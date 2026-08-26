@@ -2,7 +2,6 @@
 
 Remix of 7274ccfa-5342-4ee7-ad5c-11a9ea676710
 
-This project was built with [Lovable](https://lovable.dev).
 
 **Live app**: https://ls-wedding-invite.lovable.app
 
